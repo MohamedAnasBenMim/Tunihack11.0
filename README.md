@@ -18,7 +18,7 @@ A modern checkout where you **talk to an AI assistant** instead of filling out f
 ## 🚀 Setup 
 
 **Requirements:**
-- Node.js 18++
+- Node.js 18+
 - Free Groq API key
 - Free Stripe test account
 
