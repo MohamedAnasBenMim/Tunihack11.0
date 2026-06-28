@@ -1,6 +1,6 @@
 # 🛍️ AI-Powered E-commerce Checkout
 
-Chat naturally with an AI to complete your purchase—no forms, just conversation!!!
+Chat naturally with an AI to complete your purchase—no forms, just conversation!!!!!!!
 
 ## What Is This?
 
